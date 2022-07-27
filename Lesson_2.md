@@ -10,25 +10,10 @@
 |JSON|json|
 |Python|python|
 |SQL|sql|
-|Java|java|
+|HTML|html|
+|Markdown|md|
 
 ## Код
-
-Код на Python:
-
-```python
-
-x = int(input())
-
-if x > 0:
-
-    print(x)
-
-else:
-
-    print(-x)
-
-```
 
 Код на JavaScript:
 
