@@ -6,8 +6,8 @@
 | -----|------|
 | Java Script | javascript |
 | C++ | cpp |
-| HTML|html|
-|Markdown|md|
+|VB|vb|
 |JSON|json|
 |Python|python|
 |SQL|sql|
+|Java|java|
